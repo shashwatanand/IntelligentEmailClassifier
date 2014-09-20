@@ -1,0 +1,14 @@
+<email>
+	<header>
+		<to>user1@samsha.co.in</to>
+		<from>user5@samsha.co.in</from>
+		<time>2010 Jan 25 12:46:13</time>
+		<mime>text</mime>
+	</header>
+	<body>
+		<subject>Test Mail</subject>
+		<message>
+			<text>This this the delhi test email text message</text>
+		</message>
+	</body>
+</email>
